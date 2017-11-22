@@ -1,0 +1,51 @@
+body {
+    
+}
+
+#wrapper {
+    background: linear-gradient(white, #DCDCDC);
+width: 980px;
+margin: 0 auto;
+}
+
+h1 {
+    font-family: Arial;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 70px;
+}
+h2 {
+    font-family: Arial;
+    font-size: 30px;
+    color: black;
+    margin-top: 40px;
+    margin-bottom: -10px;
+}
+#Title_2:before {
+content: "Sub Sect";
+border-bottom: orange solid 5px;
+}
+h3 {
+    font-family: Arial;
+    font-size: 25px;
+    color: black;
+    margin-top: 0px;
+    margin-bottom: -10px;
+}
+p {
+    font-family: Arial;
+    font-size: 15px;
+    color: black;
+}
+aside {
+    float: right;
+    margin-top: -350px;
+    margin-right: 100px;
+    width: 35%;      
+}
+img {
+    margin-left: 40px;
+    box-shadow: 7px 7px 5px     #888888;
+}
